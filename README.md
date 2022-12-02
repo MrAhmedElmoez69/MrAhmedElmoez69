@@ -1,4 +1,6 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrAhmedElmoez69&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhmedElmoez69&layout=compact&theme=vision-friendly-dark)](https://github.com/MrAhmedElmoez69/github-readme-stats)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -36,9 +38,7 @@
 
 ### :fire: My Stats :
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrAhmedElmoez69&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhmedElmoez69&layout=compact&theme=vision-friendly-dark)](https://github.com/MrAhmedElmoez69/github-readme-stats)
 
 
 
@@ -49,3 +49,5 @@
  <a href="https://www.linkedin.com/in/ahmedelmoez-noomen-083b24251/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:noomenahmed90@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+  
+  

@@ -7,7 +7,7 @@
 </div>
 
 
-- 👋 Hi, I’m Ahmed Elmoez Noomen , Digital Craftsman (Developer/Creator)
+- 👋 Hi, I’m Ahmed Elmoez Noomen ,(Developer)
 -  Full stack Developer  🕸️🕸️🕸️
 -  🎮 🎮 Future Game Dev , Game Desginer🎮 🎮 
 -  🎓🎓studying Engineer's degree in Computer Science🎓🎓

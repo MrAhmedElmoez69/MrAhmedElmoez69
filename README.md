@@ -4,7 +4,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://media.tenor.com/8LFkcgaQa3IAAAAC/namco-bandai.gif"  />
+  <img height="600" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"  />
 </div>
 
 ###

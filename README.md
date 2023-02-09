@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Ahmed Elmoez Noomen ,(Developer)<br><br>Full stack Developer 🕸️🕸️🕸️<br><br>🎮 🎮 Future Game Dev , Game Desginer🎮 🎮<br><br>🎓🎓studying Engineer's degree in Computer Science🎓🎓</h2>
+<h2 align="center">👋 Hi, I’m Ahmed Elmoez Noomen , <br><br>🕸️🕸️🕸️ Full stack Developer 🕸️🕸️🕸️<br><br>🎮 🎮 Future Game Dev , Game Desginer🎮 🎮<br><br>🎓🎓studying Engineer's degree in Computer Science🎓🎓</h2>
 
 ###
 <br clear="both">

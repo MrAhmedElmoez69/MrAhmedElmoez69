@@ -2,9 +2,8 @@
 
 ###
 <br clear="both">
-
 <div align="center">
-  <img height="600" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"  />
+  <img height="600" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"/>
 </div>
 
 ###

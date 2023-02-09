@@ -54,11 +54,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MrAhmedElmoez69/MrAhmedElmoez69/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
 

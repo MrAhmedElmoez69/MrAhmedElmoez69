@@ -104,5 +104,5 @@
 
 
 
-###  Snake eating my contribution  🐍 
+###  Snake eating my contributions  🐍 
 ![snake gif](https://github.com/MrAhmedElmoez69/MrAhmedElmoez69/blob/output/github-contribution-grid-snake.gif)

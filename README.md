@@ -48,10 +48,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" width="42" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
   
-  🧠  I'm learning REACT / NODE.js / Python / .Net
 
 </div>
+<h2 align="center">
+  
+  🧠  I'm learning REACT / NODE.js / Python / .Net
 
+</h2>
 ###
 
 <br clear="both">

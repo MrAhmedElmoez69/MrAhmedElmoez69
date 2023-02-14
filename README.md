@@ -68,10 +68,10 @@
 
 
 
+  <a href="https://github.com/MrAhmedElmoez69" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhmedElmoez69&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrAhmedElmoez69.MrAhmedElmoez69&"  />
-  <a href="https://github.com/MrAhmedElmoez69" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAhmedElmoez69&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ###

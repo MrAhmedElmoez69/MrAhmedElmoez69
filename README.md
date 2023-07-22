@@ -53,7 +53,7 @@
 <div>
 <h2 align="center">
   
-  🧠  I'm learning right now :  REACT ,  NODE.js ,  Python ,  .Net 
+  🧠 
 
 </h2>
   </div>

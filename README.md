@@ -1,4 +1,5 @@
-<h2 align="center">👋 Hi, I’m Ahmed Elmoez Noomen , <br><br>🕸️🕸️🕸️ Full stack Developer 🕸️🕸️🕸️<br><br>🎮 🎮 Future Web Dev 🎮 🎮<br><br>🎓🎓Studying Engineer's degree in Computer Science🎓🎓</h2>
+<h2 align="center">👋 Hi, I’m Ahmed Elmoez Noomen , <br><br>🕸️🕸️🕸️ Full Stack Developer 🕸️🕸️🕸️</h2>
+
 
 ###
 <br clear="both">
